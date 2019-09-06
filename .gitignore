@@ -1,0 +1,9 @@
+ you haven't already, create a .gitignore at the root of your project to ignore the stuff we don't want to commit. Go ahead and put this in there:
+
+node_modules
+.cache/
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
