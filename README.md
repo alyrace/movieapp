@@ -1,5 +1,5 @@
 # movieapp
 
 Rocket films
-by Alyson Race
-A movie info app out  world
+by Alyson Race 
+A movie info app out  world.
